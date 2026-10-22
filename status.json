@@ -1,17 +1,21 @@
 {
-  "checked_at": "2026-10-22T02:12:04.420969+00:00",
+  "checked_at": "2026-10-22T02:21:48.795683+00:00",
   "sites": {
     "recepcion": {
       "ok": true,
       "http_status": 200,
       "error": null,
-      "name": "Sistema de Recepción — El Toro Reciclados"
+      "duration_ms": 360,
+      "name": "Sistema de Recepción — El Toro Reciclados",
+      "checked_at": "2026-10-22T02:21:48.348476+00:00"
     },
     "inventario": {
       "ok": true,
       "http_status": 200,
       "error": null,
-      "name": "Sistema de Inventario"
+      "duration_ms": 447,
+      "name": "Sistema de Inventario",
+      "checked_at": "2026-10-22T02:21:48.795659+00:00"
     }
   }
 }
