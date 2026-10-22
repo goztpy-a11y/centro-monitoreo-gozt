@@ -6,6 +6,7 @@ on:
   push:
     paths-ignore:
       - "status.json"
+      - "history.json"
       - "README.md"
 permissions:
   contents: write
