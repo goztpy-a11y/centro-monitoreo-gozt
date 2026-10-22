@@ -27,7 +27,7 @@ def email_alert(subject, body):
     msg = EmailMessage()
     msg["Subject"], msg["From"], msg["To"] = subject, user, recipient
     msg.set_content(body)
-    with smtplib.SMTP(host, int(os.getenv("SMTP_PORT","587")), timeout=20) as server:
+    with smtplib.SMTP(host, int(os.getenv("SMTP_PORT") or "587"), timeout=20) as server:
         server.starttls()
         server.login(user,password)
         server.send_message(msg)
