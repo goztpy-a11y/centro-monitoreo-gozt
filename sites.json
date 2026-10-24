@@ -1,5 +1,5 @@
 [
   {"id":"recepcion","name":"Sistema de Recepción — El Toro Reciclados","url":"https://sistema-recepcion-gyg6.onrender.com","enabled":true},
   {"id":"inventario","name":"Sistema de Inventario","url":"https://sistema-inventario-iko3.onrender.com","enabled":true},
-  {"id":"freddy","name":"Freddy Rojas","url":"","enabled":false,"note":"Pendiente: falta la dirección del sistema."}
+  {"id":"freddy","name":"Fredy Rojas — El Toro S.A.","url":"https://freddy-rojas.onrender.com","enabled":true}
 ]
