@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-10-25T07:56:33.244960+00:00",
+  "checked_at": "2026-10-25T08:14:19.405207+00:00",
   "sites": {
     "recepcion": {
       "ok": false,
       "http_status": null,
       "error": "TimeoutError",
-      "duration_ms": 20075,
+      "duration_ms": 20059,
       "name": "Sistema de Recepción — El Toro Reciclados",
-      "checked_at": "2026-10-25T07:55:53.089326+00:00"
+      "checked_at": "2026-10-25T08:13:39.317125+00:00"
     },
     "inventario": {
       "ok": false,
       "http_status": null,
       "error": "TimeoutError",
-      "duration_ms": 20081,
+      "duration_ms": 20044,
       "name": "Sistema de Inventario",
-      "checked_at": "2026-10-25T07:56:13.170924+00:00"
+      "checked_at": "2026-10-25T08:13:59.361357+00:00"
     },
     "freddy": {
       "ok": false,
       "http_status": null,
       "error": "TimeoutError",
-      "duration_ms": 20074,
+      "duration_ms": 20044,
       "name": "Fredy Rojas — El Toro S.A.",
-      "checked_at": "2026-10-25T07:56:33.244928+00:00"
+      "checked_at": "2026-10-25T08:14:19.405180+00:00"
     }
   }
 }
