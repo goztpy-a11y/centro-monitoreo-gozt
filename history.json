@@ -1,61 +1,7 @@
 {
-  "updated_at": "2026-11-13T21:30:45.190997+00:00",
+  "updated_at": "2026-11-14T01:37:51.047792+00:00",
   "retention_days": 7,
   "samples": [
-    {
-      "id": "recepcion",
-      "name": "Sistema de Recepción — El Toro Reciclados",
-      "checked_at": "2026-11-06T21:52:52.795008+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20058,
-      "error": "TimeoutError"
-    },
-    {
-      "id": "inventario",
-      "name": "Sistema de Inventario",
-      "checked_at": "2026-11-06T21:53:12.838916+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20044,
-      "error": "TimeoutError"
-    },
-    {
-      "id": "freddy",
-      "name": "Fredy Rojas — El Toro S.A.",
-      "checked_at": "2026-11-06T21:53:32.894689+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20056,
-      "error": "TimeoutError"
-    },
-    {
-      "id": "recepcion",
-      "name": "Sistema de Recepción — El Toro Reciclados",
-      "checked_at": "2026-11-07T01:19:21.389322+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20071,
-      "error": "TimeoutError"
-    },
-    {
-      "id": "inventario",
-      "name": "Sistema de Inventario",
-      "checked_at": "2026-11-07T01:19:41.444617+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20055,
-      "error": "TimeoutError"
-    },
-    {
-      "id": "freddy",
-      "name": "Fredy Rojas — El Toro S.A.",
-      "checked_at": "2026-11-07T01:20:01.516724+00:00",
-      "ok": false,
-      "http_status": null,
-      "duration_ms": 20072,
-      "error": "TimeoutError"
-    },
     {
       "id": "recepcion",
       "name": "Sistema de Recepción — El Toro Reciclados",
@@ -783,6 +729,33 @@
       "ok": false,
       "http_status": null,
       "duration_ms": 20046,
+      "error": "TimeoutError"
+    },
+    {
+      "id": "recepcion",
+      "name": "Sistema de Recepción — El Toro Reciclados",
+      "checked_at": "2026-11-14T01:37:10.961993+00:00",
+      "ok": false,
+      "http_status": null,
+      "duration_ms": 20065,
+      "error": "TimeoutError"
+    },
+    {
+      "id": "inventario",
+      "name": "Sistema de Inventario",
+      "checked_at": "2026-11-14T01:37:31.010348+00:00",
+      "ok": false,
+      "http_status": null,
+      "duration_ms": 20048,
+      "error": "TimeoutError"
+    },
+    {
+      "id": "freddy",
+      "name": "Fredy Rojas — El Toro S.A.",
+      "checked_at": "2026-11-14T01:37:51.047770+00:00",
+      "ok": false,
+      "http_status": null,
+      "duration_ms": 20037,
       "error": "TimeoutError"
     }
   ]
